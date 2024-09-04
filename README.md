@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">About Me<br><br>- 🎓 Student of Systems Analysis and Development<br><br>- 💻 Passionate about technology and software development<br><br>- 🔍 Looking for internship opportunities to apply and expand my knowledge</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
