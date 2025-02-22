@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/W1qFzjzb/shutterstock-1249209211-removebg-preview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" >
 
-<p align="left">About Me<br><br>- 🎓 Student of Systems Analysis and Development<br><br>- 💻 Passionate about technology and software development<br><br>- 🔍 Looking for internship opportunities to apply and expand my knowledge <br><br><br><br>  </p>
+<p align="left">About Me<br><br>- 🎓 Graduate in Systems Analysis and Development<br><br>- 💻 Passionate about technology and software development<br><br>- 🔍 Looking for internship opportunities to apply and expand my knowledge <br><br><br><br>  </p>
 
 ###
 
